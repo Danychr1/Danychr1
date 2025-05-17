@@ -1,11 +1,13 @@
-# Hi 👋, My name is Dany Christel 
-
-- Key Projects:
+                                              #  Hi 👋, My name is Dany Christel 
 
 
-- Certifications: 
+# Key Projects:
 
-- Currently Training:
+
+# Certifications: 
+
+
+# Currently Training:
 
 
 
