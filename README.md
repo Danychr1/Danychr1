@@ -1,4 +1,11 @@
-![image](https://github.com/Danychr1/Dany-Christel/blob/main/Dany%3AChristel.png)
+Hi 👋, My name is Dany Christel 
+
+# Key Projects:
+
+
+# Certifications: 
+
+# Currently Training:
 
 
 
