@@ -7,9 +7,17 @@
 
 
 ## Certifications: 
-
+- AWS Certified Cloud Practitioner
+- CompTIA Network +
+- CompTIA Security +
 
 ## Currently Training:
+
+
+## Thank You for Visiting My Page!
+I’m excited to take the next step in my career and join a team where I can contribute, grow, and make an impact. If my background resonates with you, I’d love to connect. Feel free to use the link below to set up a time to chat. 
+
+Looking forward to the conversation!
 
 
 
