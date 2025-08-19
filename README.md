@@ -5,7 +5,7 @@
 
 ## Key Projects:
 - Building Cisco Home Network Lab
-
+- Enforcing Security Best Practices with Linux Permissions
 
 ## Certifications: 
 - AWS Certified Cloud Practitioner
