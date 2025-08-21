@@ -5,7 +5,7 @@
 
 ## Key Projects:
 - Building Cisco Home Network Lab
-- Enforcing Security Best Practices with Linux Permissions
+- [Enforcing Security Best Practices with Linux Permissions](https://github.com/Danychr1/Enforcing-Security-Best-Practices-with-Linux-Permissions/blob/main/README.md)
 
 ## Certifications: 
 - AWS Certified Cloud Practitioner
