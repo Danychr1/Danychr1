@@ -4,8 +4,8 @@
  -  What drives me is the bigger picture: building a strong foundation in system administration today so I can grow into a SOC Analyst role tomorrow. I want to use my skills not only to keep systems up and running, but also to protect them. Every step I take in learning and adapting to new technologies brings me closer to that goal.
 
 ## Key Projects:
-- Building Cisco Home Network Lab
 - [Enforcing Security Best Practices with Linux Permissions](https://github.com/Danychr1/Enforcing-Security-Best-Practices-with-Linux-Permissions/blob/main/README.md)
+- Building Cisco Home Network Lab
 
 ## Certifications: 
 - AWS Certified Cloud Practitioner
