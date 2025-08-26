@@ -5,7 +5,7 @@
 
 ## Key Projects:
 - [Enforcing Security Best Practices with Linux Permissions](https://github.com/Danychr1/Enforcing-Security-Best-Practices-with-Linux-Permissions/blob/main/README.md)
-- [VirtualNetworkLab](https://github.com/Danychr1/VirtualNetworkLab/blob/main/README.md)
+- [Virtual Network Lab](https://github.com/Danychr1/VirtualNetworkLab/blob/main/README.md)
 
 ## Certifications: 
 - AWS Certified Cloud Practitioner
