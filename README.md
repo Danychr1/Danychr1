@@ -7,6 +7,7 @@
 - [Enforcing Security Best Practices with Linux Permissions](https://github.com/Danychr1/Enforcing-Security-Best-Practices-with-Linux-Permissions/blob/main/README.md)
 -  [Linux-Apache-Webserver](https://github.com/Danychr1/Linux-Apache-Webserver)
 - [Virtual Network Lab](https://github.com/Danychr1/VirtualNetworkLab/blob/main/README.md)
+- [Exploiting-FTP-Vulnerabilities](https://github.com/Danychr1/Testing-Lab-Exploiting-FTP-Vulnerabilities)
 
 ## Certifications: 
 - AWS Certified Cloud Practitioner
