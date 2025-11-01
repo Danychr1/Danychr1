@@ -1,7 +1,7 @@
 ## Hi 👋, My name is [Dany Christel ](https://www.linkedin.com/in/dany-christel-qa/)
- -  I’m building my career in System Administration and "Security Operation Center Analyst", drawing on my background in Quality Assurance, where I learned the importance of reliability, attention to detail, and keeping systems running smoothly. I enjoy getting hands-on experience with servers, networks, and operating systems, whether it’s troubleshooting issues, improving performance, or enhancing daily operations to make them more secure and efficient.
 
- -  What drives me is the bigger picture: building a strong foundation in system administration today so I can grow into a SOC Analyst role tomorrow. I want to use my skills not only to keep systems up and running, but also to protect them. Every step I take in learning and adapting to new technologies brings me closer to that goal.
+ -  I'm shaping my path in System Administration, along with working as a Security Operations Center Analyst, using what I picked up from Quality Assurance - like how crucial dependability is, staying sharp on details, or making sure everything runs without hiccups. I like diving into servers, networks, and OS setups directly, whether fixing glitches, boosting speed, or streamlining routines so they’re safer and run better.
+ -  What keeps me going is thinking ahead. Laying down solid skills in system admin now to step into a SOC Analyst job later. I’m not just aiming to keep things working smoothly, but also to shield them from threats. Each time I pick up something new or adjust to different tech, I move a bit nearer to where I want to be.
 
 ## Key Projects:
 - [Enforcing Security Best Practices with Linux Permissions](https://github.com/Danychr1/Enforcing-Security-Best-Practices-with-Linux-Permissions/blob/main/README.md)
