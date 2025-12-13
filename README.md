@@ -16,7 +16,8 @@
 
 ## Currently Training:
 - Intro to Splunk (eLearning)
-- SOC Essentials: Investigating with Splunk 8.x 
+- SOC Essentials: Investigating with Splunk 8.x
+- CySA 
 
 ## Thank You for Visiting My Page!
 I’m excited to take the next step in my career and join a team where I can contribute, grow, and make an impact. If my background resonates with you, I’d love to connect. Feel free to use the link below to set up a time to chat. 
