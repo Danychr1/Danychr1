@@ -51,8 +51,11 @@ I leverage my QA foundation — attention to detail, root-cause analysis, and sy
 ## 🏆 Certifications:
 
 🎖️ AWS Certified Cloud Practitioner (2025)
+
 📊 Data Analysis & Visualization 
+
 🎖️ [CompTIA Security+ ce certificate](https://github.com/user-attachments/files/24350231/CompTIA.Security%2B.ce.certificate.1.pdf)
+
 🎖️ CompTIA Network +
 
 
