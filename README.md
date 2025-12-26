@@ -49,7 +49,7 @@ Currently, I am actively building practical blue-team skills through my project:
 ---
 
 ## 🏆 **Certifications**
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-orange)  
+![CompTIA Security+](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Security%2B%20.pdf)  
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-brightgreen)  
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)  
 📌 **CompTIA CySA+ (in progress)**
