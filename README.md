@@ -49,9 +49,15 @@ Currently, I am actively building practical blue-team skills through my project:
 ---
 
 ## 🏆 **Certifications**
-![ CompTIA Security +](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Security%2B%20.pdf)  
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-brightgreen)(https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Network%2B%20.pdf)  
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)  
+
+🎖️ AWS Certified Cloud Practitioner (2025)
+
+📊 Data Analysis & Visualization 
+
+🎖️ [CompTIA Security +](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Security%2B%20.pdf)
+
+🎖️ [CompTIA Network +](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Network%2B%20.pdf)
+
 📌 **CompTIA CySA+ (in progress)**
 
 ---
