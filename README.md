@@ -50,7 +50,7 @@ Currently, I am actively building practical blue-team skills through my project:
 
 ## 🏆 **Certifications**
 
-🎖️ AWS Certified Cloud Practitioner (2025)
+🎖️[AWS Certified Cloud Practitioner](https://www.credly.com/badges/706929b3-fd53-4cb9-a5e6-2d5dfc977c02)
 
 📊 Data Analysis & Visualization 
 
