@@ -3,7 +3,7 @@
 IT & Cybersecurity Professional | SOC Analyst in Progress | Former QA Engineer
 
 I bring 5+ years of experience in Quality Assurance and software delivery, now transitioning into Cybersecurity and IT Operations with a focus on SOC Analyst Tier I roles.
-I leverage my QA foundation — attention to detail, root-cause analysis, and system validation — to build strong defensive security habits in threat detection, incident response, and secure system configuration.
+I leverage my QA foundation, attention to detail, root-cause analysis, and system validation to build strong defensive security habits in threat detection, incident response, and secure system configuration.
 
 ## 🧠 What I Do
 
