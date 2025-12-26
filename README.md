@@ -1,75 +1,93 @@
-# 👋Hi, I am [Dany Christel](https://www.linkedin.com/in/dany-christel-qa/)
+# 👋 Hi, I'm **Dany Christel**
+**Cybersecurity & SOC Analyst | QA Professional Transitioning into IT Security**
 
-IT & Cybersecurity Professional | SOC Analyst in Progress | Former QA Engineer
+I’m a **Cybersecurity / SOC Analyst in training** with hands-on experience in **SIEM monitoring, log analysis, threat detection, and incident response workflows**. My foundation in **Quality Assurance and IT systems** sharpened my **analytical thinking, root-cause investigation, and documentation skills**, which now support effective security operations.
 
-I bring 5+ years of experience in Quality Assurance and software delivery, now transitioning into Cybersecurity and IT Operations with a focus on SOC Analyst Tier I roles.
-I leverage my QA foundation, attention to detail, root-cause analysis, and system validation to build strong defensive security habits in threat detection, incident response, and secure system configuration.
+Currently, I am actively building practical blue-team skills through my project:  
+🛡 **The Cyber Defense Playbook** — practicing **memory forensics, SIEM analysis, network monitoring, and incident triage**.
 
-## 🧠 What I Do
+---
 
-💡 Transitioning into SOC / Cybersecurity Operations
+## 🛡️ **Core Security Skills**
+### **SIEM & Detection**
+- Splunk, Wazuh, Google Chronicle → alert validation, tuning, correlation, triage  
 
-🔍 Practicing SOC workflows, SIEM analysis, log monitoring & incident triage
+### **Threat & Log Analysis**
+- Firewall, IDS/IPS, system logs, IOC identification, root-cause investigations  
 
-☁️ Expanding skills in AWS, AZURE, Linux and Security Operations
+### **Host Security**
+- Linux & Windows hardening, account/permission governance, endpoint security  
 
-🛠 Learning tools used by modern cybersecurity teams
+### **Incident Response**
+- Runbook creation, triage decision trees, severity classification, escalation procedures  
 
-## 🧰 Skills & Tools
+### **Network Defense**
+- TCP/IP, DNS/HTTP analysis, VLANs, VPNs, routing, network segmentation  
 
-**Security & SOC:**
-- SIEM: Splunk (Core Concepts), Log Analysis, Alert Triage
-- Threat Detection, Vulnerability Management
-- Incident Response Fundamentals
-- Network Security & Endpoint Protection Basics
+### **Cloud Security Foundations**
+- AWS & Azure → IAM, access control, policy enforcement, cloud governance
 
-**Operating Systems:** 
-- Linux Administration (SSH, user management, permissions)
-- Apache Server hardening and configuration
-- Windows Administration (Event Viewer, AD fundamentals)
+---
 
-**Cloud & DevOps:**
-- AZURE & AWS (EC2, S3, IAM, VPC, Networking)
-- Docker & Containerization Fundamentals
-- GitHub Actions / CI pipelines
+## 📌 **Key Projects**
+- **Linux-Apache Webserver**  
+  Configured a secure Linux Apache web server with SSH hardening and firewall rules.  
+  **Skills:** Linux, Apache, SSH, UFW
 
-**QA & Automation:** 
-- Selenium, Test Automation
-- Postman, Charles Proxy (Network Inspection)
-- Jira & TestRail workflows
-  
-**Networking Fundamentals:**
-- Network Defense: TCP/IP, DNS/HTTP analysis, VPNs, VLANs, routing & segmentation
-- Incident Response: Triage frameworks, severity classification, containment guidance & reporting
+- **Cyber Defense Playbook | SOC Labs**  
+  Lab environment to practice SOC workflows: log monitoring, memory forensics, SIEM alerts, incident triage.  
+  **Skills:** SIEM, Incident Response, Threat Hunting
 
-## Key Projects:
-- [Enforcing Security Best Practices with Linux Permissions](https://github.com/Danychr1/Enforcing-Security-Best-Practices-with-Linux-Permissions/blob/main/README.md)
--  [Linux-Apache-Webserver](https://github.com/Danychr1/Linux-Apache-Webserver)
-- [Virtual Network Lab](https://github.com/Danychr1/VirtualNetworkLab/blob/main/README.md)
-- [Exploiting-FTP-Vulnerabilities](https://github.com/Danychr1/Testing-Lab-Exploiting-FTP-Vulnerabilities)
+- **Containerizing a Java Application with Docker**  
+  Dockerized a monolithic Java app for consistent deployment across environments.  
+  **Skills:** Docker, Linux, CI/CD
 
-## 🏆 Certifications:
+- **Project-IV Refactoring with AWS**  
+  Migrated app components to AWS services for improved reliability and scalability.  
+  **Skills:** AWS (EC2, S3, VPC), Networking, Cloud Architecture
 
-🎖️ AWS Certified Cloud Practitioner (2025)
+---
 
-📊 Data Analysis & Visualization 
+## 🏆 **Certifications**
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-orange)  
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-brightgreen)  
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue)  
+📌 **CompTIA CySA+ (in progress)**
 
-🎖️ [CompTIA Security +](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Security%2B%20.pdf)
+---
 
-🎖️ [CompTIA Network +](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Network%2B%20.pdf)
+## 💡 **What I Bring**
+- 🛡 Security mindset focused on **prevention, detection, and response**  
+- 🔎 **QA precision:** attention to detail, repeatable processes  
+- ⚙️ Comfortable in **fast-paced IT environments** and quickly learning new tools  
+- 📈 Growth mindset: documenting progress, continuous improvement  
 
+---
 
-## 📚 Learning & Career Goals
-- Splunk Core Certified User
-- SOC Analyst Essentials
-- CompTIA CySA+
+## 🎯 **Career Goals / Open To**
+- SOC Analyst (Tier 1 / Tier 2)  
+- Cybersecurity Analyst / Blue Team Operations  
+- Incident Response Apprentice / Defensive Security  
+- Junior Information Security Roles
 
+---
 
-## Thank You for Visiting My Page!
-I’m excited to take the next step in my career and join a team where I can contribute, grow, and make an impact. If my background resonates with you, I’d love to connect. Feel free to use the link below to set up a time to chat. 
+## 📫 **Let’s Connect**
+📧 **Email:** DanyChristelQA@gmail.com  
+💼 **LinkedIn:** [https://www.linkedin.com/in/dany-christel-qa/](https://www.linkedin.com/in/dany-christel-qa/)  
+💻 **GitHub:** [https://github.com/Danychr1](https://github.com/Danychr1)  
+✍️ **Blog:** [https://medium.com/@christel093](https://medium.com/@christel093)
 
-Looking forward to the conversation!
+---
 
+### ⚡ **Fun Fact**
+I speak **English, French, and Spanish**, and I enjoy **building secure, reliable systems** while documenting my learning journey.
+
+---
+
+## 📊 **GitHub Stats**
+![Danychr1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danychr1&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danychr1&layout=compact&theme=radical)
 
 
 
