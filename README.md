@@ -54,9 +54,9 @@ I leverage my QA foundation — attention to detail, root-cause analysis, and sy
 
 📊 Data Analysis & Visualization 
 
-🎖️ [CompTIA Security+ ce certificate](https://github.com/user-attachments/files/24350231/CompTIA.Security%2B.ce.certificate.1.pdf)
+🎖️ [CompTIA Security +](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Security%2B%20.pdf)
 
-🎖️ CompTIA Network +
+🎖️ [CompTIA Network +](https://github.com/Danychr1/Professional_Certifications/blob/main/CompTIA%20Network%2B%20.pdf)
 
 
 ## 📚 Learning & Career Goals
