@@ -8,8 +8,11 @@ I leverage my QA foundation — attention to detail, root-cause analysis, and sy
 ## 🧠 What I Do
 
 💡 Transitioning into SOC / Cybersecurity Operations
+
 🔍 Practicing SOC workflows, SIEM analysis, log monitoring & incident triage
+
 ☁️ Expanding skills in AWS, AZURE, Linux and Security Operations
+
 🛠 Learning tools used by modern cybersecurity teams
 
 ## 🧰 Skills & Tools
