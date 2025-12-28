@@ -1,50 +1,46 @@
-# 👋 Hi, I'm **Dany Christel**
-**Cybersecurity & SOC Analyst | QA Professional Transitioning into IT Security**
+# 👋 Hi, I'm Dany Christel — Cybersecurity & Cloud Security Junior Analyst
 
-I’m a **Cybersecurity / SOC Analyst in training** with hands-on experience in **SIEM monitoring, log analysis, threat detection, and incident response workflows**. My foundation in **Quality Assurance and IT systems** sharpened my **analytical thinking, root-cause investigation, and documentation skills**, which now support effective security operations.
+🔐 **Aspiring SOC Analyst | Blue Team Enthusiast | Cloud Security (AWS)**
+📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen  
+🌐 Languages: English, French, Spanish  
 
-Currently, I am actively building practical blue-team skills through my project:  
-🛡 **The Cyber Defense Playbook** — practicing **memory forensics, SIEM analysis, network monitoring, and incident triage**.
+I am transitioning from IT Systems Support into **Cybersecurity**, focusing on building hands-on skills in:
+- SOC workflows & incident response
+- SIEM monitoring & alert triage
+- Vulnerability management (Nessus / OpenVAS)
+- Cloud security (AWS IAM, CloudTrail, least privilege)
+- Windows/Linux security hardening & log analysis
 
----
-
-## 🛡️ **Core Security Skills**
-### **SIEM & Detection**
-- Splunk, Wazuh, Google Chronicle → alert validation, tuning, correlation, triage  
-
-### **Threat & Log Analysis**
-- Firewall, IDS/IPS, system logs, IOC identification, root-cause investigations  
-
-### **Host Security**
-- Linux & Windows hardening, account/permission governance, endpoint security  
-
-### **Incident Response**
-- Runbook creation, triage decision trees, severity classification, escalation procedures  
-
-### **Network Defense**
-- TCP/IP, DNS/HTTP analysis, VLANs, VPNs, routing, network segmentation  
-
-### **Cloud Security Foundations**
-- AWS & Azure → IAM, access control, policy enforcement, cloud governance
+My goal is to secure an entry-level role in **SOC Operations, Blue Team, or Cloud Security** where I can continue growing while contributing to security operations and defense strategies.
 
 ---
 
-## 📌 **Key Projects**
-- **Linux-Apache Webserver**  
-  Configured a secure Linux Apache web server with SSH hardening and firewall rules.  
-  **Skills:** Linux, Apache, SSH, UFW
+## 🛡️ Cybersecurity Skill Focus
 
-- **Cyber Defense Playbook | SOC Labs**  
-  Lab environment to practice SOC workflows: log monitoring, memory forensics, SIEM alerts, incident triage.  
-  **Skills:** SIEM, Incident Response, Threat Hunting
+| Area | Tools / Skills |
+|------|-----------------|
+| SOC & Detection | SIEM (Elastic / Splunk*), Sysmon, Log analysis |
+| Vulnerability Management | Nessus / OpenVAS, prioritization, remediation plans |
+| Threat Intelligence | MITRE ATT&CK, IOC research, VirusTotal, AbuseIPDB |
+| Cloud Security | AWS IAM, CloudTrail, S3 security policies |
+| OS Hardening | Linux & Windows, SSH hardening, auditd, UFW/firewalld |
+| Networking | Wireshark, TCP/IP, PCAP analysis |
+| Scripting | PowerShell for automation & remediation |
 
-- **Containerizing a Java Application with Docker**  
-  Dockerized a monolithic Java app for consistent deployment across environments.  
-  **Skills:** Docker, Linux, CI/CD
+> \*Working toward hands-on Splunk projects and home lab environment (in progress)
 
-- **Project-IV Refactoring with AWS**  
-  Migrated app components to AWS services for improved reliability and scalability.  
-  **Skills:** AWS (EC2, S3, VPC), Networking, Cloud Architecture
+---
+
+## 🔥 Featured Cybersecurity Projects
+
+| Project | Description | Skills |
+|---------|--------------|--------|
+| **Cyber Defense Playbook (SOC/IR)** | A documented SOC playbook including alert triage, incident response decision trees, log analysis examples, and threat intel lookups. | SOC, IR, Threat Hunting |
+| **Web Server Hardening & Logging** | Defensive Linux web server build with hardening, auditd logging, and attack detection via log monitoring. | Linux, Hardening, Logging |
+| **AWS Security – IAM & Access Control** | IAM roles & policies, MFA, CloudTrail logging, S3 secure configuration, least privilege implementation. | Cloud Security, IAM |
+| **Wireshark PCAP Investigations** *(coming)* | Analyzing malicious packet captures, identifying C2 traffic, malware beacons, and suspicious protocols. | Network Security |
+
+> 👉 View all repositories at: **github.com/Danychr1**
 
 ---
 
@@ -62,38 +58,27 @@ Currently, I am actively building practical blue-team skills through my project:
 
 ---
 
-## 💡 **What I Bring**
-- 🛡 Security mindset focused on **prevention, detection, and response**  
-- 🔎 **QA precision:** attention to detail, repeatable processes  
-- ⚙️ Comfortable in **fast-paced IT environments** and quickly learning new tools  
-- 📈 Growth mindset: documenting progress, continuous improvement  
+## 📈 What I'm Working On Now
+- Building a home SIEM lab with ELK Stack 🧪
+- Incident report case studies 📝
+- Malware traffic analysis practice 🔍
+- Improving PowerShell for SOC automation ⚡
 
 ---
 
-## 🎯 **Career Goals / Open To**
-- SOC Analyst (Tier 1 / Tier 2)  
-- Cybersecurity Analyst / Blue Team Operations  
-- Incident Response Apprentice / Defensive Security  
-- Junior Information Security Roles
+## 🤝 Let's Connect
+📫 Email: **danychristel7@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/dany-christel**  
+🛡️ GitHub: **github.com/Danychr1**  
 
 ---
 
-## 📫 **Let’s Connect**
-📧 **Email:** DanyChristelQA@gmail.com  
-💼 **LinkedIn:** [https://www.linkedin.com/in/dany-christel-qa/](https://www.linkedin.com/in/dany-christel-qa/)  
-💻 **GitHub:** [https://github.com/Danychr1](https://github.com/Danychr1)  
-✍️ **Blog:** [https://medium.com/@christel093](https://medium.com/@christel093)
+## ⭐ Fun Fact
+I speak **3 languages**, and I’m passionate about becoming a defender who bridges technical skill with clear communication — making cybersecurity accessible and effective across teams.
 
 ---
 
-### ⚡ **Fun Fact**
-I speak **English, French, and Spanish**, and I enjoy **building secure, reliable systems** while documenting my learning journey.
-
----
-
-## 📊 **GitHub Stats**
-![Danychr1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danychr1&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danychr1&layout=compact&theme=radical)
+> **“Defense is an act of dedication. Learning is the path.”**
 
 
 
