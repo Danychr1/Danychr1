@@ -67,13 +67,13 @@ My goal is to secure an entry-level role in **SOC Operations, Blue Team, or Clou
 ---
 
 ## 🤝 Let's Connect
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
+ - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
 
 
 ---
 
 ## ⭐ Fun Fact
-I speak **3 languages**, and I’m passionate about becoming a defender who bridges technical skill with clear communication — making cybersecurity accessible and effective across teams.
+I speak **3 languages**, and I’m passionate about becoming a defender who bridges technical skill with clear communication, making cybersecurity accessible and effective across teams.
 
 ---
 
