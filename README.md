@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Dany Christel — Cybersecurity & Cloud Security Junior Analyst
 
-🔐 **Aspiring SOC Analyst | Blue Team Enthusiast | Cloud Security (AWS)**
+I’m a hands-on **cybersecurity professional transitioning from QA into SOC operations.** I focus on threat detection, incident response, SIEM operations, and endpoint security. I enjoy building secure environments, automating detection workflows, and defending systems in real-world scenarios.
+
 📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen  
 🌐 Languages: English, French, Spanish  
+
 
 I am transitioning from IT Systems Support into **Cybersecurity**, focusing on building hands-on skills in:
 - SOC workflows & incident response
 - SIEM monitoring & alert triage
 - Vulnerability management (Nessus / OpenVAS)
 - Cloud security (AWS IAM, CloudTrail, least privilege)
-- Windows/Linux security hardening & log analysis
-
-My goal is to secure an entry-level role in **SOC Operations, Blue Team, or Cloud Security** where I can continue growing while contributing to security operations and defense strategies.
+- Windows/Linux security hardening & log analysisw
 
 ---
 
@@ -19,15 +19,14 @@ My goal is to secure an entry-level role in **SOC Operations, Blue Team, or Clou
 
 | Area | Tools / Skills |
 |------|-----------------|
-| SOC & Detection | SIEM (Elastic / Splunk*), Sysmon, Log analysis |
-| Vulnerability Management | Nessus / OpenVAS, prioritization, remediation plans |
-| Threat Intelligence | MITRE ATT&CK, IOC research, VirusTotal, AbuseIPDB |
-| Cloud Security | AWS IAM, CloudTrail, S3 security policies |
+| SOC & Threat Monitoring | Microsoft Sentinel Defender for Endpoint, Tenable |
+| Endpoint & Host Security | Windows hardening, EDR, vulnerability remediation |
+| Log Analysis & Incident Response | SIEM correlation rules, alert investigation, root cause analysis |
+| Automation & Cloud | PowerShell scripting, AWS cloud basics, Docker, CI/CD pipelines |
 | OS Hardening | Linux & Windows, SSH hardening, auditd, UFW/firewalld |
-| Networking | Wireshark, TCP/IP, PCAP analysis |
-| Scripting | PowerShell for automation & remediation |
+| Networking & IoT Security | Wireshark, TCP/IP, packet analysis, network troubleshooting |
+| Scripting | Bash, PowerShell for automation & remediation |
 
-> \*Working toward hands-on Splunk projects and home lab environment (in progress)
 
 ---
 
@@ -80,103 +79,4 @@ I speak **3 languages**, and I’m passionate about becoming a defender who brid
 > **“Defense is an act of dedication. Learning is the path.”**
 
 
-
-
-👋 Hi, I’m Dany Chr
-
-Cybersecurity | SOC Analyst | Cloud & DevOps
-
-I’m a hands-on cybersecurity professional transitioning from QA and Cloud/DevOps into SOC operations. I focus on threat detection, incident response, SIEM operations, and endpoint security. I enjoy building secure environments, automating detection workflows, and defending systems in real-world scenarios.
-
-🔑 Key Skills
-
-SOC & Threat Monitoring: Microsoft Sentinel, Defender for Endpoint, Tenable
-
-Endpoint & Host Security: Windows hardening, EDR, vulnerability remediation
-
-Log Analysis & Incident Response: SIEM correlation rules, alert investigation, root cause analysis
-
-Automation & Cloud: PowerShell scripting, AWS cloud basics, Docker, CI/CD pipelines
-
-Networking & IoT Security: TCP/IP, packet analysis, network troubleshooting
-
-🏆 Projects & Labs
-1. Cyber Defense Playbook Project
-
-Hands-on SOC lab simulating enterprise security environments
-
-Integrated tools: Microsoft Sentinel, Defender for Endpoint, Tenable
-
-Activities: SIEM alert creation, incident investigation, vulnerability scanning, endpoint telemetry analysis
-
-2. Windows 11 STIG Remediation
-
-Automated DISA STIG compliance using PowerShell
-
-Strengthened system security and endpoint hardening
-
-3. Containerizing Java Application with Docker
-
-Built Docker containers for secure, scalable application deployment
-
-Applied DevOps best practices for CI/CD integration
-
-4. Project-IV Refactoring with AWS
-
-Refactored applications for cloud deployment and performance optimization
-
-Gained practical experience with AWS cloud infrastructure
-
-5. Linux-Apache Webserver Setup
-
-Configured Linux servers and Apache web services
-
-Implemented security controls and logging
-
-📜 Certifications & Training
-
-AWS Certified Cloud Practitioner (2025)
-
-CompTIA Security+ (In Progress)
-
-Data Analysis & Visualization Training
-
-Hands-on Cybersecurity Labs in SIEM, Vulnerability Management, and Incident Response
-
-💻 Tools & Platforms
-Category	Tools
-SIEM & Monitoring	Microsoft Sentinel, Elastic Stack (self-deployed), Defender for Endpoint
-Vulnerability Mgmt	Tenable
-Network & Endpoint	Wireshark, YARA, Windows Security Hardening
-Cloud & DevOps	AWS, Docker, CI/CD, PowerShell, Linux
-Documentation & Reporting	Markdown, Confluence, GitHub
-📌 Learning & Career Focus
-
-Expanding SOC and threat hunting capabilities
-
-Automating incident response and SIEM workflows
-
-Gaining proficiency in cloud-native security monitoring
-
-Exploring advanced endpoint and network detection techniques
-
-📸 Evidence of Work
-
-All projects include:
-
-Screenshots of alerts, dashboards, and logs
-
-Scripts used for automation and remediation
-
-Lab walkthroughs for security scenarios
-
-🤝 Let’s Connect
-
-GitHub: https://github.com/Danychr1
-
-Email: DanyChristelQA@gmail.com
-
-LinkedIn: (add your LinkedIn link here)
-
-✅ This profile README now aligns your GitHub with SOC analyst roles, emphasizes hands-on experience, and is recruiter-friendly.
 
