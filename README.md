@@ -1,49 +1,45 @@
-# 👋 Hi, I'm Dany Christel — Cybersecurity & Cloud Security Junior Analyst
+## 👋 Dany Christel
 
-I’m a hands-on **cybersecurity professional transitioning from QA into SOC operations.** I focus on threat detection, incident response, SIEM operations, and endpoint security. I enjoy building secure environments, automating detection workflows, and defending systems in real-world scenarios.
-
-📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen  
-🌐 Languages: English, French, Spanish  
-
-
-I am transitioning from IT Systems Support into **Cybersecurity**, focusing on building hands-on skills in:
-- SOC workflows & incident response
-- SIEM monitoring & alert triage
-- Vulnerability management (Nessus / OpenVAS)
-- Cloud security (AWS IAM, CloudTrail, least privilege)
-- Windows/Linux security hardening & log analysisw
-
----
-
-## 🛡️ Cybersecurity Skill Focus
-
-| Area | Tools / Skills |
-|------|-----------------|
-| SOC & Threat Monitoring | Microsoft Sentinel Defender for Endpoint, Tenable |
-| Endpoint & Host Security | Windows hardening, EDR, vulnerability remediation |
-| Log Analysis & Incident Response | SIEM correlation rules, alert investigation, root cause analysis |
-| Automation & Cloud | PowerShell scripting, AWS cloud basics, Docker, CI/CD pipelines |
-| OS Hardening | Linux & Windows, SSH hardening, auditd, UFW/firewalld |
-| Networking & IoT Security | Wireshark, TCP/IP, packet analysis, network troubleshooting |
-| Scripting | Bash, PowerShell for automation & remediation |
+Cybersecurity & Cloud Security Junior Analyst | SOC Operations & Threat Hunting
+📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen | 🛂 Eligible for U.S. Security Clearance
+🌐 Languages: English • French • Spanish
+📁 GitHub: github.com/Danychr1
+🔗 LinkedIn: https://linkedin.com/in/dany-christel
 
 
----
+### 🔥 Summary
 
-## 🔥 Featured Cybersecurity Projects
+Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response, and endpoint security experience. I build defensive workflows, investigate alerts, and map findings to MITRE ATT&CK to enhance detection and response capabilities. My background in QA and IT support strengthens my attention to detail, documentation skills, and structured investigation approach.
 
-| Project | Description | Skills |
-|---------|--------------|--------|
-| **Cyber Defense Playbook (SOC/IR)** | A documented SOC playbook including alert triage, incident response decision trees, log analysis examples, and threat intel lookups. | SOC, IR, Threat Hunting |
-| **Web Server Hardening & Logging** | Defensive Linux web server build with hardening, auditd logging, and attack detection via log monitoring. | Linux, Hardening, Logging |
-| **AWS Security – IAM & Access Control** | IAM roles & policies, MFA, CloudTrail logging, S3 secure configuration, least privilege implementation. | Cloud Security, IAM |
-| **Wireshark PCAP Investigations** *(coming)* | Analyzing malicious packet captures, identifying C2 traffic, malware beacons, and suspicious protocols. | Network Security |
 
-> 👉 View all repositories at: **github.com/Danychr1**
+### 🧠 Key Skills & Tools
+
+| Category                          | Skills & Platform Experience                                       |
+| --------------------------------- | ------------------------------------------------------------------ |
+| **SOC & Threat Monitoring**       | Microsoft Sentinel / Defender, Elastic SIEM, SIEM alert triage     |
+| **Threat Hunting & Analytics**    | KQL (Kusto Query Language), MITRE ATT&CK, Behavioral Analytics     |
+| **Endpoint & OS Security**        | Microsoft Defender for Endpoint, Windows/Linux hardening           |
+| **Incident Response & Forensics** | Alert investigation, root cause analysis, digital forensics basics |
+| **Cloud & Automation**            | Azure & AWS fundamentals, PowerShell scripting                     |
+| **Vulnerability & Compliance**    | Nessus/Tenable, DISA STIG, audit & remediation                     |
+| **Networking & Traffic Analysis** | Nmap, Wireshark, TCP/IP troubleshooting                            |
+
+
+### 📊 Projects That Showcase Practical Security Skills
+
+
+| Project                                   | Description                                                                                    | Core Skills                          |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |
+| **Cyber Defense Playbook (SOC/IR)**       | Comprehensive SOC playbook with alert triage, decision trees, and threat intel analysis.       | SOC workflows, IR, Threat Hunting    |
+| **Threat Hunts with Defender + KQL**      | Multiple hunts using Microsoft Defender telemetry and KQL to identify adversary behavior.      | KQL, Defender, Behavioral Analytics  |
+| **Elastic SIEM Lab**                      | SIEM deployment with log ingestion, detection rules, dashboards, and alert investigation.      | Elastic SIEM, Log Analysis           |
+| **AWS Security – IAM & Logging**          | Secure AWS environment with IAM policies, CloudTrail logging, and least-privilege enforcement. | Cloud Security, IAM                  |
+| **Vulnerability Management & Compliance** | Tenable scans, DISA STIG application, audit reporting, and remediation scripting.              | Vulnerability Management, Compliance |
+
 
 ---
 
-## 🏆 **Certifications**
+### 🏆 **Certifications**
 
 🎖️[AWS Certified Cloud Practitioner](https://www.credly.com/badges/706929b3-fd53-4cb9-a5e6-2d5dfc977c02)
 
