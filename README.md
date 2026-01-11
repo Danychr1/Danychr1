@@ -1,11 +1,12 @@
 ## 👋 Dany Christel
 
-Cybersecurity & Cloud Security Junior Analyst | SOC Operations & Threat Hunting
-📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen | 🛂 Eligible for U.S. Security Clearance
-🌐 Languages: English • French • Spanish
-📁 GitHub: github.com/Danychr1
-🔗 LinkedIn: https://linkedin.com/in/dany-christel
+*** Cybersecurity & Cloud Security Junior Analyst | SOC Operations & Threat Hunting *** 
 
+📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen | 🛂 Eligible for U.S. Security Clearance
+
+🌐 Languages: English • French • Spanish
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
 
 ### 🔥 Summary
 
