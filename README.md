@@ -13,17 +13,15 @@
 Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response, and endpoint security experience. I build defensive workflows, investigate alerts, and map findings to MITRE ATT&CK to enhance detection and response capabilities. My background in QA and IT support strengthens my attention to detail, documentation skills, and structured investigation approach.
 
 
-### 🧠 Key Skills & Tools
+### ⚡ Core Capabilities (At a Glance)
 
-| Category                          | Skills & Platform Experience                                       |
-| --------------------------------- | ------------------------------------------------------------------ |
-| **SOC & Threat Monitoring**       | Microsoft Sentinel / Defender, Elastic SIEM, SIEM alert triage     |
-| **Threat Hunting & Analytics**    | KQL (Kusto Query Language), MITRE ATT&CK, Behavioral Analytics     |
-| **Endpoint & OS Security**        | Microsoft Defender for Endpoint, Windows/Linux hardening           |
-| **Incident Response & Forensics** | Alert investigation, root cause analysis, digital forensics basics |
-| **Cloud & Automation**            | Azure & AWS fundamentals, PowerShell scripting                     |
-| **Vulnerability & Compliance**    | Nessus/Tenable, DISA STIG, audit & remediation                     |
-| **Networking & Traffic Analysis** | Nmap, Wireshark, TCP/IP troubleshooting                            |
+✔ Threat Hunting & Behavioral Analytics  
+✔ SIEM Monitoring & Alert Triage  
+✔ Microsoft Defender + KQL Investigations  
+✔ Endpoint & OS Hardening (Windows / Linux)  
+✔ Vulnerability Management & DISA STIG Compliance  
+✔ Cloud Security Fundamentals (Azure / AWS)
+
 
 
 ### 📊 Projects That Showcase Practical Security Skills
@@ -37,6 +35,19 @@ Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response
 | **AWS Security – IAM & Logging**          | Secure AWS environment with IAM policies, CloudTrail logging, and least-privilege enforcement. | Cloud Security, IAM                  |
 | **Vulnerability Management & Compliance** | Tenable scans, DISA STIG application, audit reporting, and remediation scripting.              | Vulnerability Management, Compliance |
 
+
+ Skills & Associated Projects
+
+| **Skills / Technologies** | **Associated Project** |
+|---------------------------|------------------------|
+| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | **Threat Hunt: Cargo Hold** |
+| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | **Threat Hunt: Remote Assistance** |
+| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | **Threat Hunt: Port of Entry** |
+| KQL, Windows 11 VM, Microsoft Defender for Endpoint, Tor Browser | **Threat Hunting Scenario – Tor** |
+| Microsoft Azure, Tenable | **Vulnerability Management Lab** |
+| Windows 11 VM, Tenable, DISA STIG, Audit, Compliance, PowerShell | **DISA STIGs Hardening & Compliance Project** |
+| Elastic SIEM, Linux, Nmap, Data Visualization, Alerting | **Elastic SIEM Lab** |
+| Network Configuration, Troubleshooting, IoT Security, Cisco Packet Tracer | **Virtual Network Lab** |
 
 ---
 
