@@ -6,7 +6,7 @@
 
 🌐 Languages: English • French • Spanish
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
+ 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
 
 ---
 
@@ -85,12 +85,6 @@ PowerShell • Kali Linux • VirtualBox • Nmap • Wireshark • Cisco Packet
 - Incident report case studies 📝
 - Malware traffic analysis practice 🔍
 - Improving PowerShell for SOC automation ⚡
-
----
-
-### 🤝 Let's Connect
- - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
-
 
 ---
 
