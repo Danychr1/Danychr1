@@ -1,6 +1,6 @@
 ## 👋 Dany Christel
 
-*** Cybersecurity & Cloud Security Junior Analyst | SOC Operations & Threat Hunting *** 
+***Cybersecurity & Cloud Security Junior Analyst | SOC Operations & Threat Hunting*** 
 
 📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen | 🛂 Eligible for U.S. Security Clearance
 
