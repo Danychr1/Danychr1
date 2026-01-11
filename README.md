@@ -46,14 +46,14 @@ Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response
 
 ### 🎯 Selected Project Objectives
 
-**DISA STIGs Hardening & Compliance**  
-Apply DISA STIG security controls to Windows 11 systems, validate compliance, and automate remediation using PowerShell.
+**DISA STIGs Hardening & Compliance**
+Objective: Apply DISA STIG security controls to Windows 11 systems, validate compliance, and automate remediation using PowerShell.
 
-**Elastic SIEM Lab**  
-Deploy and configure Elastic SIEM to ingest logs, build detections, create dashboards, and investigate security events.
+**Elastic SIEM Lab**
+Objective: Deploy and configure an Elastic SIEM environment to ingest logs, create detection rules, build dashboards, and investigate security events.
 
-**Virtual Network Lab**  
-Design and simulate IoT-enabled networks using Cisco Packet Tracer to develop hands-on networking and cybersecurity skills.
+**Virtual Network Lab**
+Objective: Develop hands-on skills in network configuration, troubleshooting, and cybersecurity concepts by designing and simulating IoT-enabled networks using Cisco Packet Tracer instead of physical hardware.
 
 ---
 
