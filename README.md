@@ -2,16 +2,20 @@
 
 ***Cybersecurity & Cloud Security Junior Analyst | SOC Operations & Threat Hunting*** 
 
-📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen | 🛂 Eligible for U.S. Security Clearance
+📍 San Francisco Bay Area, CA | 🇺🇸 U.S. Citizen | 🛂 **Eligible for U.S. Security Clearance**
 
 🌐 Languages: English • French • Spanish
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
 
+---
+
 ### 🔥 Summary
 
 Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response, and endpoint security experience. I build defensive workflows, investigate alerts, and map findings to MITRE ATT&CK to enhance detection and response capabilities. My background in QA and IT support strengthens my attention to detail, documentation skills, and structured investigation approach.
 
+
+---
 
 ### ⚡ Core Capabilities (At a Glance)
 
@@ -22,21 +26,9 @@ Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response
 ✔ Vulnerability Management & DISA STIG Compliance  
 ✔ Cloud Security Fundamentals (Azure / AWS)
 
+---
 
-
-### 📊 Projects That Showcase Practical Security Skills
-
-
-| Project                                   | Description                                                                                    | Core Skills                          |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |
-| **Cyber Defense Playbook (SOC/IR)**       | Comprehensive SOC playbook with alert triage, decision trees, and threat intel analysis.       | SOC workflows, IR, Threat Hunting    |
-| **Threat Hunts with Defender + KQL**      | Multiple hunts using Microsoft Defender telemetry and KQL to identify adversary behavior.      | KQL, Defender, Behavioral Analytics  |
-| **Elastic SIEM Lab**                      | SIEM deployment with log ingestion, detection rules, dashboards, and alert investigation.      | Elastic SIEM, Log Analysis           |
-| **AWS Security – IAM & Logging**          | Secure AWS environment with IAM policies, CloudTrail logging, and least-privilege enforcement. | Cloud Security, IAM                  |
-| **Vulnerability Management & Compliance** | Tenable scans, DISA STIG application, audit reporting, and remediation scripting.              | Vulnerability Management, Compliance |
-
-
- Skills & Associated Projects
+### 📊 Skills & Associated Projects
 
 | **Skills / Technologies** | **Associated Project** |
 |---------------------------|------------------------|
@@ -48,6 +40,26 @@ Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response
 | Windows 11 VM, Tenable, DISA STIG, Audit, Compliance, PowerShell | **DISA STIGs Hardening & Compliance Project** |
 | Elastic SIEM, Linux, Nmap, Data Visualization, Alerting | **Elastic SIEM Lab** |
 | Network Configuration, Troubleshooting, IoT Security, Cisco Packet Tracer | **Virtual Network Lab** |
+
+
+---
+
+### 🎯 Selected Project Objectives
+
+**DISA STIGs Hardening & Compliance**  
+Apply DISA STIG security controls to Windows 11 systems, validate compliance, and automate remediation using PowerShell.
+
+**Elastic SIEM Lab**  
+Deploy and configure Elastic SIEM to ingest logs, build detections, create dashboards, and investigate security events.
+
+**Virtual Network Lab**  
+Design and simulate IoT-enabled networks using Cisco Packet Tracer to develop hands-on networking and cybersecurity skills.
+
+---
+
+### 🛠️ Tools & Technologies
+Microsoft Defender • Elastic SIEM • KQL • Azure • AWS • Tenable •  
+PowerShell • Kali Linux • VirtualBox • Nmap • Wireshark • Cisco Packet Tracer
 
 ---
 
@@ -65,7 +77,7 @@ Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response
 
 ---
 
-## 📈 What I'm Working On Now
+### 📈 What I'm Working On Now
 - Building a home SIEM lab with ELK Stack 🧪
 - Incident report case studies 📝
 - Malware traffic analysis practice 🔍
@@ -73,14 +85,14 @@ Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
  - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dany-christel)         👨🏽‍💻[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@christel093)          📫 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danychristel7@gmail.com) 
 
 
 ---
 
-## ⭐ Fun Fact
-I speak **3 languages**, and I’m passionate about becoming a defender who bridges technical skill with clear communication, making cybersecurity accessible and effective across teams.
+### ⭐ Fun Fact
+I speak **three languages**, and I’m passionate about becoming a defender who bridges technical skill with clear communication, making cybersecurity accessible and effective across teams.
 
 ---
 
