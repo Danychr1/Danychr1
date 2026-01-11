@@ -37,9 +37,9 @@ Hands-on cybersecurity analyst with real threat-hunting, SIEM, incident response
 | Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | **Threat Hunt: Port of Entry** |
 | KQL, Windows 11 VM, Microsoft Defender for Endpoint, Tor Browser | **Threat Hunting Scenario – Tor** |
 | Microsoft Azure, Tenable | **Vulnerability Management Lab** |
-| Windows 11 VM, Tenable, DISA STIG, Audit, Compliance, PowerShell | **DISA STIGs Hardening & Compliance Project** |
+| Windows 11 VM, Tenable, DISA STIG, Audit, Compliance, PowerShell | [**DISA-STIG Security Standards Project**](https://github.com/Danychr1/DISA-STIG-Security-Standards) |
 | Elastic SIEM, Linux, Nmap, Data Visualization, Alerting | **Elastic SIEM Lab** |
-| Network Configuration, Troubleshooting, IoT Security, Cisco Packet Tracer | **Virtual Network Lab** |
+| Network Configuration, Troubleshooting, IoT Security, Cisco Packet Tracer | [**Virtual Network Lab**](https://github.com/Danychr1/VirtualNetworkLab) |
 
 
 ---
